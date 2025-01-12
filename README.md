@@ -1,1 +1,3 @@
-# cmpe491
+# CMPE 491
+
+In this study, we utilized a Generative Adversarial Network (GAN) architecture to generate synthetic data resembling the characteristics of the DDoS SDN dataset. The dataset consists of 23 features, including 3 categorical and 20 numerical attributes, which were preprocessed using normalization and one-hot encoding techniques. By leveraging the PyTorch framework, we trained the GAN to learn the underlying patterns of the dataset, enabling the generation of realistic synthetic samples. The primary objective was to augment the dataset with high-quality synthetic data for improving machine learning-based anomaly detection systems in cybersecurity. Our results demonstrate the potential of GANs in addressing data scarcity and enhancing the robustness of DDoS detection models.
